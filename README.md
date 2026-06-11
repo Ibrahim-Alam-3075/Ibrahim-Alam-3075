@@ -2,7 +2,9 @@
 
 ### A passionate Computer Science student focused on Backend Development, Systems Programming and Artificial Intelligence.
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Ibrahim-Alam-3075" alt="Ibrahim-Alam-3075" /></a> </p>
+<p align="left">
+  <img src="https://komarev.com/ghvc/?username=Ibrahim-Alam-3075&label=Profile%20Views&color=0e76a8&style=flat-square" alt="Ibrahim-Alam-3075 Views" />
+</p>
 
 - 🔭 I'm currently working on **Building robust backend environments and relational database schemas.**
 
