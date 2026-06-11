@@ -2,8 +2,8 @@
 
 ### A passionate Computer Science student focused on Backend Development, Systems Programming and Artificial Intelligence.
 
-<p align="left">
-  <img src="https://komarev.com/ghvc/?username=Ibrahim-Alam-3075&label=Profile%20Views&color=0e76a8&style=flat-square" alt="Ibrahim-Alam-3075 Views" />
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=120&section=header&text=Welcome%20to%20my%20Space&fontSize=30" alt="Header" />
 </p>
 
 - 🔭 I'm currently working on **Building robust backend environments and relational database schemas.**
